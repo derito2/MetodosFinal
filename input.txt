@@ -1,0 +1,4 @@
+Robot please move 9 blocks then turn 180 degrees
+Robot please move 2 blocks then turn 89 degrees
+Robot turn 90 degrees quickly
+Robot please turn 360 degrees
